@@ -88,7 +88,6 @@ After implementing the KNN algorithm and applying K-Fold Cross-Validation, the m
 
 The results demonstrate that KNN performed significantly better than the initial Linear Regression model for this dataset.
 
-Note: Since this is a regression problem, metrics such as R-squared (R2), Mean Absolute Error (MAE), and Root Mean Squared Error (RMSE) are more appropriate than classification accuracy.
 
 ## Key Insights
 
