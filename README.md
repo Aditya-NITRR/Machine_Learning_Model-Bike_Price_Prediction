@@ -85,10 +85,6 @@ The initial Linear Regression model achieved approximately 65% performance.
 
 After implementing the KNN algorithm and applying K-Fold Cross-Validation, the model achieved approximately 93% performance.
 
-| Model | Performance |
-|---|---:|
-| Linear Regression | ~65% |
-| KNN Regression + K-Fold Cross-Validation | ~93% |
 
 The results demonstrate that KNN performed significantly better than the initial Linear Regression model for this dataset.
 
